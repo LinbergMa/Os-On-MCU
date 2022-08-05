@@ -22,3 +22,5 @@
 # 测试7
 再次确认是否本地git email与github email一致
 
+# 测试8
+之前情况不稳定，目前修改本地git name与github name一致
