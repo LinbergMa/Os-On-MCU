@@ -19,3 +19,6 @@
 # 测试6
 变更本地git email与github email一致后，操作上传
 
+# 测试7
+再次确认是否本地git email与github email一致
+
