@@ -24,3 +24,6 @@
 
 # 测试8
 之前情况不稳定，目前修改本地git name与github name一致
+
+# 测试9
+恢复本地git的name和email分别为Linberg、linberg@outlook.com
